@@ -6,7 +6,7 @@
 ### 2. Pre-processing the text
 ### 3. Tokenizing the text
 ### 4. Analysing the frequency distribution of tokens
-       - ### Removal of StopWords and constructing WordCloud
+       - Removal of StopWords and constructing WordCloud
 ### 5. Applying stemming on words
 ### 6. PoS tagging (using brown corpus)
 ### 7. Finding the categories that these words fall under in the Wordnet
