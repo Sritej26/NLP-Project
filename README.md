@@ -1,6 +1,6 @@
 # NLP-Project
 
-*Analysing word frequencies followed by Parts of Speech tagging based on the context of the sentence by training the tagger on Brown Corpus. Adding to that extraction of Named Entities and their Relation
+*Analysing word frequencies followed by Parts of Speech tagging based on the context of the sentence by training the tagger on Brown Corpus. Adding to that extraction of Named Entities and their Relation*
 
 ## Procedure followed:
 
